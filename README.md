@@ -1,145 +1,51 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Prasad Londe - Data Analyst</title>
-  <style>
-    :root {
-      --primary: #2f80ed;
-      --background: #f9fafc;
-      --card-bg: #ffffff;
-      --text: #333;
-      --accent: #56ccf2;
-    }
-
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: var(--background);
-      color: var(--text);
-      line-height: 1.6;
-    }
-
-    header {
-      background: linear-gradient(to right, var(--primary), var(--accent));
-      color: white;
-      padding: 3rem 2rem;
-      text-align: center;
-    }
-
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-
-    header p {
-      font-size: 1.2rem;
-      margin-top: 0.5rem;
-    }
-
-    .container {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-
-    .card {
-      background-color: var(--card-bg);
-      border-radius: 12px;
-      box-shadow: 0 8px 16px rgba(0,0,0,0.05);
-      padding: 1.5rem 2rem;
-      margin-bottom: 2rem;
-    }
-
-    h2 {
-      color: var(--primary);
-      margin-top: 0;
-    }
-
-    ul {
-      padding-left: 1.5rem;
-    }
-
-    a {
-      color: var(--primary);
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    footer {
-      text-align: center;
-      padding: 2rem;
-      font-size: 0.9rem;
-      color: #777;
-    }
-  </style>
 </head>
-<body>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9; color: #333;">
 
-  <header>
-    <h1>👋 Hi, I'm Prasad Londe</h1>
-    <p>Data Analyst | Power BI | SQL | Python | Tableau | HTML/CSS</p>
-  </header>
+  <h1>👋 Hi, I'm Prasad Londe</h1>
+  <p>Data Analyst | Power BI | SQL | Python | Tableau | HTML/CSS</p>
 
-  <div class="container">
+  <h2>📊 About Me</h2>
+  <ul>
+    <li>B.Tech in Computer Science – Expected 2026</li>
+    <li>University: Dr. Babasaheb Ambedkar Technological University</li>
+    <li>Certified: PL-300 Microsoft Power BI Data Analyst</li>
+    <li>Location: Maharashtra, India</li>
+    <li>Email: <a href="mailto:prasadlonde23@gmail.com">prasadlonde23@gmail.com</a></li>
+  </ul>
 
-    <div class="card">
-      <h2>📊 About Me</h2>
-      <ul>
-        <li>B.Tech in Computer Science (Dr. Babasaheb Ambedkar Technological University – Expected 2026)</li>
-        <li>PL-300 Certified | Data Visualization & Automation Enthusiast</li>
-        <li>Location: Maharashtra, India</li>
-        <li>Email: <a href="mailto:prasadlonde23@gmail.com">prasadlonde23@gmail.com</a></li>
-      </ul>
-    </div>
+  <h2>💼 Experience</h2>
+  <p><strong>Data Analyst Intern - Cravita Technologies (Dec 2024 – Apr 2025)</strong></p>
+  <ul>
+    <li>Created dashboards using Power BI and Tableau</li>
+    <li>Automated data workflows using Python (Pandas, NumPy)</li>
+    <li>Designed SQL queries for large datasets</li>
+    <li>Built predictive models with 85% accuracy</li>
+    <li>Used Excel (Pivot Tables, Macros) for reporting</li>
+  </ul>
 
-    <div class="card">
-      <h2>💼 Experience</h2>
-      <p><strong>Data Analyst Intern – Cravita Technologies (Dec 2024 – Apr 2025)</strong></p>
-      <ul>
-        <li>Created interactive dashboards in Power BI and Tableau</li>
-        <li>Automated data workflows using Python (Pandas, NumPy)</li>
-        <li>Optimized SQL queries for large datasets</li>
-        <li>Developed predictive models with 85% accuracy</li>
-        <li>Advanced Excel reporting using Pivot Tables & Macros</li>
-      </ul>
-    </div>
+  <h2>📌 Projects</h2>
+  <ul>
+    <li>HR Analytics Dashboard – Track HR KPIs</li>
+    <li>Blinkit Dashboard – Order and delivery metrics</li>
+    <li>Healthcare Dashboard – Hospital admission insights</li>
+    <li>Sales Dashboard – Regional and revenue trends</li>
+  </ul>
 
-    <div class="card">
-      <h2>📌 Projects</h2>
-      <ul>
-        <li><strong>HR Analytics Dashboard</strong> – Employee KPI Tracking</li>
-        <li><strong>Blinkit Dashboard</strong> – Order & Delivery Insights</li>
-        <li><strong>Healthcare Dashboard</strong> – Hospital Admission Trends</li>
-        <li><strong>Sales Dashboard</strong> – Revenue & Regional Analysis</li>
-      </ul>
-    </div>
+  <h2>🛠️ Skills</h2>
+  <ul>
+    <li>Languages: Python, SQL, PHP, JavaScript, HTML/CSS, MATLAB</li>
+    <li>Tools: Power BI, Tableau, Excel, Git</li>
+    <li>Certifications: PL-300, Coursera Management Course</li>
+    <li>Awards: Smart India Hackathon Runner-Up (2024), RW Case Comp Winner (2013)</li>
+  </ul>
 
-    <div class="card">
-      <h2>🛠️ Skills</h2>
-      <ul>
-        <li><strong>Languages:</strong> Python, SQL, PHP, JavaScript, HTML/CSS, MATLAB</li>
-        <li><strong>Tools:</strong> Power BI, Tableau, Excel, Git, Pandas, NumPy</li>
-        <li><strong>Certifications:</strong> PL-300, Coursera Management Course</li>
-        <li><strong>Awards:</strong> Smart India Hackathon Runner-Up (2024), RW Case Competition Winner (2013)</li>
-      </ul>
-    </div>
-
-    <div class="card">
-      <h2>📫 Connect with Me</h2>
-      <p><a href="https://www.linkedin.com/in/prasad-londe-7aa308247/" target="_blank">LinkedIn: Prasad Londe</a></p>
-      <p><em>“Turning data into decisions.”</em></p>
-    </div>
-
-  </div>
-
-  <footer>
-    &copy; 2025 Prasad Londe. All rights reserved.
-  </footer>
+  <h2>📫 Connect with Me</h2>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/prasad-londe-7aa308247/" target="_blank">https://www.linkedin.com/in/prasad-londe-7aa308247/</a></p>
+  <p><em>“Turning data into decisions.”</em></p>
 
 </body>
 </html>
