@@ -1,50 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Prasad Londe - GitHub Profile</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-      background-color: #ffffff;
-      color: #24292f;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    h1, h2 {
-      border-bottom: 1px solid #eaecef;
-      padding-bottom: 0.3em;
-      margin-top: 2em;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    code {
-      background-color: #f6f8fa;
-      padding: 2px 4px;
-      font-size: 90%;
-      border-radius: 3px;
-    }
-    blockquote {
-      color: #6a737d;
-      padding: 0 1em;
-      border-left: 0.25em solid #dfe2e5;
-    }
-    img {
-      max-width: 100%;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>👋 Hi, I'm Prasad Londe</h1>
   <p>Welcome to my GitHub profile! I'm a Data Analyst passionate about turning raw data into actionable insights using tools like Power BI, SQL, and Python.</p>
